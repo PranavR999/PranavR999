@@ -7,6 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/relanpranav" target="blank"><img src="https://img.shields.io/twitter/follow/relanpranav?logo=twitter&style=for-the-badge" alt="relanpranav" /></a> </p>
 
+- 📫 How to reach me **relan.pranav@gmail.com**
+
+- 📄 Know about my experiences [https://linkedin.com/in/pranav-relan](https://linkedin.com/in/pranav-relan)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/relanpranav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="relanpranav" height="30" width="40" /></a>
