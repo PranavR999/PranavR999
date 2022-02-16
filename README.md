@@ -7,6 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/relanpranav" target="blank"><img src="https://img.shields.io/twitter/follow/relanpranav?logo=twitter&style=for-the-badge" alt="relanpranav" /></a> </p>
 
+[![Twitter: RelanPranav](https://img.shields.io/twitter/follow/RelanPranav?style=social)](https://twitter.com/RelanPranav)
+[![GitHub Pranav Relan](https://img.shields.io/github/followers/PranavR999?label=follow&style=social)](https://github.com/PranavR999)
+
 - 📫 How to reach me **relan.pranav@gmail.com**
 
 - 📄 Know about my experiences [https://linkedin.com/in/pranav-relan](https://linkedin.com/in/pranav-relan)
