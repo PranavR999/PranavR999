@@ -23,6 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=PranavR999&show_icons=true&theme=dark" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavr999&show_icons=true&locale=en" alt="pranavr999" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavr999&" alt="pranavr999" /></p>
