@@ -23,6 +23,7 @@
 <a href="https://twitter.com/relanpranav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="relanpranav" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pranav-relan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pranav-relan/" height="30" width="40" /></a>
 <a href="https://instagram.com/relan.pranav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="relan.pranav" height="30" width="40" /></a>
+<a href="mailto:relan.pranav@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="30" width="40"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
