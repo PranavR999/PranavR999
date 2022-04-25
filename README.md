@@ -17,7 +17,7 @@
 - 📫 How to reach me **relan.pranav@gmail.com**
 
 - 📄 Know about my experiences [https://linkedin.com/in/pranav-relan](https://linkedin.com/in/pranav-relan)
-- [![Contribution Snake](https://raw.githubusercontent.com/PranavR999/PranavR999/output/github-snake-custom.svg)](https://github.com/Platane/snk)
+[![Contribution Snake](https://raw.githubusercontent.com/PranavR999/PranavR999/output/github-snake-custom.svg)](https://github.com/Platane/snk)
 
 
 <h3 align="left">Connect with me:</h3>
