@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranav</h1>
 <!-- <h3 align="center">A passionate backend developer from California</h3> -->
 
+[![Contribution Snake](https://raw.githubusercontent.com/PranavR999/PranavR999/output/github-snake-custom.svg)](https://github.com/Platane/snk)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavr999&label=Profile%20views&color=0e75b6&style=flat" alt="pranavr999" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavr999" alt="pranavr999" /></a> </p>
@@ -17,8 +18,6 @@
 - 📫 How to reach me **relan.pranav@gmail.com**
 
 - 📄 Know about my experiences [https://linkedin.com/in/pranav-relan](https://linkedin.com/in/pranav-relan)
-[![Contribution Snake](https://raw.githubusercontent.com/PranavR999/PranavR999/output/github-snake-custom.svg)](https://github.com/Platane/snk)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
