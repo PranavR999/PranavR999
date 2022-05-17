@@ -15,7 +15,7 @@
 <!-- <a href="https://www.instagram.com/relan.pranav/">![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a> -->
 
 
-- 📫 How to reach me **relan.pranav@gmail.com**
+- 📫 How to reach me **pranavrelan@ucla.edu**
 
 - 📄 Know about my experiences [https://linkedin.com/in/pranav-relan](https://linkedin.com/in/pranav-relan)
 
